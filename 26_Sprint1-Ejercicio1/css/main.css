@@ -1,0 +1,98 @@
+/*nav*/
+header {
+	background-color: black;
+}
+.fondoNa {
+	background-color: black;	
+}
+a{
+	text-decoration: none;
+}
+
+/*textos*/
+h1 {
+	font-family: Courgette !important;
+	font-size: 280% !important;
+}
+h3 {
+	font-family: Courgette !important;
+}
+.texOran{
+	color: #FFBF00;
+}
+p {
+	color: white;
+}
+
+/*fondos*/
+.fondoPag {
+	background-color: #424242;
+}
+.fondoBlack {
+	background-color: black;
+	width: 70%;
+	height: auto;
+	padding: 5%;
+	margin-left: 15%;
+}
+
+.FondoImg {
+	background-image: url(../image/header-image.jpg);
+	background-size: 100% 100%;
+	padding: 15%;
+	background-repeat: no-repeat;
+	margin-bottom: 3%;
+}
+.fondoParrafo {
+	background-color: black;
+	margin-top: -5px;
+	padding: 2%;
+}
+.backRed{
+	background-color: red;
+}
+/*aside*/
+
+input {
+	background-color: #424242;
+	width: 100%;
+	border: none;
+	padding: 2%;
+}
+form{
+	padding: 5%;
+	background-color: black;
+	width: 100%;
+	margin-bottom: 5%;
+}
+
+/*.fonImgAs {
+	padding: 5%;
+
+}*/
+
+i {
+	border-radius: 50%;
+	padding: 2%;
+	margin: 1% 2% 2% 1%;
+	background-color: grey;
+	color: white;
+	display: inline-block;
+	
+}
+/*footer*/
+footer {
+	margin-top: 5%;
+	background-color: black;
+	padding: 5%;
+}
+/* Responsive */
+
+@media screen and (max-width : 920px) {
+
+}
+
+@media screen and (max-width: 600px) {
+	 
+   
+}
